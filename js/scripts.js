@@ -34,7 +34,7 @@ $(document).ready(function() {
 
         // Add a click listener to each date
         $(".day-" + date).click(function() {
-          $(".display").show();
+          $(".results").show();
           $(".display").empty();
           $(".day").text(date);
 
