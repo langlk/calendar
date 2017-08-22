@@ -1,3 +1,33 @@
+body {
+  background-color: rgb(168, 214, 255);
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.jumbotron {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+  padding: 48px 20px 30px;
+  background-color: rgb(19, 97, 165);
+  color: rgb(184, 200, 214);
+}
+
+.btn {
+  background-color: rgb(19, 97, 165);
+  color: rgb(184, 200, 214);
+}
+
+.panel-default {
+  border-color: rgb(19, 97, 165);
+}
+
+.panel-default .panel-heading {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  background-color: rgb(114, 162, 204);
+  border-color: rgb(19, 97, 165);
+}
+
 .agenda {
   margin: 30px;
 }
